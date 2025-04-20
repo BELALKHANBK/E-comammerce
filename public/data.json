@@ -1,0 +1,57 @@
+[{
+        "id": "1",
+        "title": "Vintage Leica M3 Cemera",
+        "description": "",
+        "currentBidPrice": "$2850",
+        "money": 2850,
+        "timeLeft": "2 days left",
+        "bidsCount": "Bids 12",
+        "image": "https://i.ibb.co.com/s9PtC8Ng/Bid1-min.png",
+        "banner": "https://i.ibb.co.com/bgT9hgHR/1677058008612.jpg",
+        "navbar": "https://i.ibb.co.com/CK2CSvgZ/fiver.jpg"
+    },
+    {
+        "id": "2",
+        "title": "1965 Gibson SG Standard Electric Guitar",
+        "description": "",
+        "currentBidPrice": "$2850",
+        "money": 2850,
+        "timeLeft": "2 days left",
+        "bidsCount": "Bids 12",
+        "image": "https://i.ibb.co.com/rf0hXHBy/Bid4-min.png",
+        "banner": "https://i.ibb.co.com/bgT9hgHR/1677058008612.jpg"
+    },
+    {
+        "id": "3",
+        "title": "Original Apple Macintosh 128K (1984)",
+        "description": "",
+        "currentBidPrice": "$2850",
+        "money": 2850,
+        "timeLeft": "2 days left",
+        "bidsCount": "Bids 12",
+        "image": "https://i.ibb.co.com/3y3yCZNc/Bid2-min.png",
+        "banner": "https://i.ibb.co.com/bgT9hgHR/1677058008612.jpg"
+    },
+    {
+        "id": "4",
+        "title": "Rolex Submariner 16610",
+        "description": "",
+        "currentBidPrice": "$2850",
+        "money": 2850,
+        "timeLeft": "2 days left",
+        "bidsCount": "Bids 12",
+        "image": "https://i.ibb.co.com/rfkrxgsZ/Bid3-min.png",
+        "banner": "https://i.ibb.co.com/bgT9hgHR/1677058008612.jpg"
+    },
+    {
+        "id": "5",
+        "title": "Mid-Century Modern Eames Lounge Chair",
+        "description": "",
+        "currentBidPrice": "$2850",
+        "money": 2850,
+        "timeLeft": "2 days left",
+        "bidsCount": "Bids 12",
+        "image": "https://i.ibb.co.com/cMtQTmX/Bid5-min.png",
+        "banner": "https://i.ibb.co.com/bgT9hgHR/1677058008612.jpg"
+    }
+]

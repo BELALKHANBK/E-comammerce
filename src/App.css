@@ -1,0 +1,10 @@
+.belalb {
+    height: 50px;
+    width: 120px;
+    border-radius: 60px;
+    background-color: red;
+}
+
+.belalb:active {
+    background-color: blue;
+}
