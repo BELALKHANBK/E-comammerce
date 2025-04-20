@@ -1,6 +1,6 @@
 # FlagshipFaceOff Resources
 
-[Live Demo](https://your-live-demo-link.com)
+[Live Demo](https://visionary-sunburst-421983.netlify.app/)
 
 ## Documentation Links
 
